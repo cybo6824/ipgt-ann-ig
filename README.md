@@ -1,4 +1,4 @@
-# pident2-ig
+# IPGT-ANN Integrated Gradients
 Integrated Gradients visualiser for "Using attention neural networks to estimate individual-level pig growth trajectories from group-level weight time series".
 
 Packages used:
